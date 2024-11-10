@@ -1,7 +1,3 @@
-Thanks for those corrections! Here’s the updated `README.md`:
-
----
-
 
 # Hither
 
