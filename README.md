@@ -49,10 +49,6 @@ After installation, Hither offers various commands for managing containers and i
 - `hither image rm <image-name>`: Remove an image from the local store.
 - `hither image list`: List all images on the system.
 
-### Other Commands
-
-- `hither container list`: List all containers on the system.
-
 ### Options
 
 Available option for most commands:
@@ -84,8 +80,6 @@ hither image rm my-image
 # List all images on the system
 hither image list
 
-# List all containers on the system
-hither container list
 ```
 
 ## Building and Running Hither
