@@ -9,5 +9,6 @@ func NewImageCommand() *cobra.Command {
 	}
 
 	cmd.AddCommand(listCmd)
+	cmd.AddCommand(deleteCmd)
 	return cmd
 }
